@@ -6,5 +6,5 @@
 
 # 找到我
 
-- 📚博客: https://cxplay.org
+- 📚博客: https://www.cxplay.org
 - 📢Telegram 频道: https://t.m/cxplayshare
