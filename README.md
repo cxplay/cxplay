@@ -7,4 +7,4 @@
 # 找到我
 
 - 📚博客: https://www.cxplay.org
-- 📢Telegram 频道: https://t.m/cxplayshare
+- 📢Telegram 频道: https://t.m/cxplayworld
